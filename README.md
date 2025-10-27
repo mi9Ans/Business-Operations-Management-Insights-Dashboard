@@ -26,6 +26,20 @@ This project provides an end-to-end business intelligence solution built in **Po
 
 ---
 
+## 🖼️ Dashboard Preview
+
+Below are the three pages of the **Business Operations & Management Insights Dashboard**, exported directly from Power BI.
+
+### 📄 Page 1 – Sales Overview
+![Page 1 – Sales Overview](business_operations_dashboard_page1.png)
+
+### 📄 Page 2 – Store & Regional Insights
+![Page 2 – Store & Regional Insights](business_operations_dashboard_page2.png)
+
+### 📄 Page 3 – Operational & Management Insights
+![Page 3 – Operational & Management Insights](business_operations_dashboard_page3.png)
+
+---
 ## 🧰 **Technical Details**
 
 ### 🔹 Tools Used
